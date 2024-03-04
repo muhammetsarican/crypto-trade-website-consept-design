@@ -1,7 +1,7 @@
 
-# Trade Website Concept Design
+# Trade Landing Page Concept Design
 
-I created a trade website concept design with Html and Scss and it was my first Scss project. When I was developing this project I had so fun and I learned so much things 🥳.
+I created a trade landing page concept design with Html and Scss and it was my first Scss project. When I was developing this project I had so fun and I learned so much things 🥳.
 
 ## Screenshots
 
